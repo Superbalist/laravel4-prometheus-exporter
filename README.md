@@ -1,6 +1,6 @@
-# laravel-prometheus-exporter
+# laravel4-prometheus-exporter
 
-A prometheus exporter for Laravel.
+A prometheus exporter for Laravel 4.
 
 [![Author](http://img.shields.io/badge/author-@superbalist-blue.svg?style=flat-square)](https://twitter.com/superbalist)
 [![Build Status](https://img.shields.io/travis/Superbalist/laravel-prometheus-exporter/master.svg?style=flat-square)](https://travis-ci.org/Superbalist/laravel-prometheus-exporter)
